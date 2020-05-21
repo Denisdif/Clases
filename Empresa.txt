@@ -1,2 +1,6 @@
 Clase Empresa{
+
+    int codEmpresa;
+    String nombreEmpresa;
+    
 }
