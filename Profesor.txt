@@ -1,2 +1,7 @@
 Clase Profesor{
+
+    int idProfesor;
+    String apellido;
+    String nombre;
+    
 }
