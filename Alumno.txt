@@ -1,2 +1,7 @@
 Clase Alumno{
+    
+    int idAlumno;
+    String apellido;
+    int legajo;
+    
 }
